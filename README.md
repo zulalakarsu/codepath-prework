@@ -9,6 +9,8 @@ Submitted by: **Zulal Akarsu**
 
 Time spent: **1 hour** spent in total
 
+![codepath-ios101-prework-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8d9310ea-583c-48f7-99d3-7542a463c112)
+
 ---
 
 ## Required Features
